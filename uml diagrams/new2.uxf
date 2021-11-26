@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLDeployment</id>
+    <coordinates>
+      <x>441</x>
+      <y>162</y>
+      <w>351</w>
+      <h>198</h>
+    </coordinates>
+    <panel_attributes>USER INTERFACE
+&lt;&lt;CLIENT&gt;&gt;</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>594</x>
+      <y>351</y>
+      <w>27</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;90.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>504</x>
+      <y>432</y>
+      <w>207</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>NETWORK
+valign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>594</x>
+      <y>486</y>
+      <w>27</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLDeployment</id>
+    <coordinates>
+      <x>459</x>
+      <y>540</y>
+      <w>315</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;SERVER&gt;&gt;
+STREAMLIT SERVER</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
