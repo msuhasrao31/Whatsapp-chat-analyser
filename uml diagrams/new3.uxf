@@ -44,7 +44,7 @@
     </coordinates>
     <panel_attributes>type=decision
 CHECK WHETHER FILE 
-EXTENSTION IS VALID OR NOT</panel_attributes>
+size is less than 200mb</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
